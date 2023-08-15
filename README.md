@@ -19,3 +19,14 @@ DrScan هي أداة سهلة الاستخدام تمكنك من فحص الشب
    
    ```bash
    sudo dpkg -i drscan-package.deb
+
+
+<details>
+<summary>انقر لنسخ الكود</summary>
+bash
+Copy code
+drscan
+bash
+Copy code
+drscan -A 192.168.1.0/24 -v
+</details>
