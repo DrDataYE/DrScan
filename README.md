@@ -1,24 +1,25 @@
-# DrScan - أداة فحص الشبكات والأجهزة
+# DrScan - Network and Device Scanning Tool
 
-DrScan هي أداة سهلة الاستخدام تمكنك من فحص الشبكات والأجهزة المتصلة بها. يمكن استخدامها لاكتشاف الأجهزة المتصلة بالشبكة وفحص حالتها وتحديد الثغرات المحتملة. تتيح لك DrScan تحليل وفحص الأجهزة والخدمات على الشبكة بسهولة وسرعة.
+DrScan is a user-friendly tool that allows you to scan networks and connected devices. It can be used to discover devices connected to a network, check their status, and identify potential vulnerabilities. DrScan enables you to analyze and scan devices and services on the network easily and quickly.
 
-## الميزات
+## Features
 
-- فحص شبكات محلية لاكتشاف الأجهزة المتصلة.
-- تحديد حالة الأجهزة وفحص الثغرات المحتملة.
-- واجهة سهلة الاستخدام وتكوين بسيط.
-- دعم لتثبيت الأداة عبر حزمة deb.
+- Scan local networks to discover connected devices.
+- Determine device status and scan for potential vulnerabilities.
+- User-friendly interface and simple configuration.
+- Support for tool installation via the deb package.
 
-## التثبيت
+## Installation
 
-يمكن تثبيت DrScan بسهولة باستخدام ملف حزمة `deb`. يتطلب ذلك خطوات بسيطة:
+You can easily install DrScan using the `deb` package file. Follow these simple steps:
 
-1. قم بتنزيل ملف الحزمة `deb` من [من هنا](https://github.com/DrDataYE/DrScan/blob/main/python3-drscan_1.0.0-1_all.deb).
-2. افتح الطرفية وانتقل إلى المجلد الذي تم فيه تنزيل الملف.
-3. استخدم الأمر التالي لتثبيت الحزمة:
-   
+1. Download the `deb` package file from [here](https://github.com/DrDataYE/DrScan/blob/main/python3-drscan_1.0.0-1_all.deb).
+2. Open the terminal and navigate to the folder where the file was downloaded.
+3. Use the following command to install the package:
+
    ```bash
    sudo dpkg -i drscan-package.deb
+
 
 4. بعد اكتمال التثبيت، يمكنك تشغيل DrScan باستخدام الأمر:
    
