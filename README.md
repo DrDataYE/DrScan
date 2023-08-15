@@ -20,31 +20,6 @@ You can easily install DrScan using the `deb` package file. Follow these simple 
    ```bash
    sudo dpkg -i drscan-package.deb
 
-بالطبع! إليك المحتوى الذي يمكنك وضعه في ملف `README.md` الخاص بمشروعك:
-
-```markdown
-# DrScan - Network and Device Scanning Tool
-
-DrScan is a user-friendly tool that allows you to scan networks and connected devices. It can be used to discover devices connected to a network, check their status, and identify potential vulnerabilities. DrScan enables you to analyze and scan devices and services on the network easily and quickly.
-
-## Features
-
-- Scan local networks to discover connected devices.
-- Determine device status and scan for potential vulnerabilities.
-- User-friendly interface and simple configuration.
-- Support for tool installation via the deb package.
-
-## Installation
-
-You can easily install DrScan using the `deb` package file. Follow these simple steps:
-
-1. Download the `deb` package file from [here](https://github.com/DrDataYE/DrScan/blob/main/python3-drscan_1.0.0-1_all.deb).
-2. Open the terminal and navigate to the folder where the file was downloaded.
-3. Use the following command to install the package:
-
-   ```bash
-   sudo dpkg -i drscan-package.deb
-   ```
 
 4. After installation is complete, you can run DrScan using the following command:
 
