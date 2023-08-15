@@ -47,4 +47,3 @@ DrScan is licensed under the LLM License. See the `LICENSE` file for more detail
 
 **Note:** Always ensure that you use this tool legally and in accordance with local laws. The development team assumes no responsibility for any unlawful use of this tool.
 ```
-
