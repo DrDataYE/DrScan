@@ -49,6 +49,6 @@ If you are a developer and would like to contribute to the development of DrScan
 DrScan is licensed under the LLM License. See the `LICENSE` file for more details.
 
 ---
-**Note:** There may be some errors and issues with the tool, but they will be addressed in the future, God willing.
+**Note:** There may be some errors and issues with the tool, but they will be addressed in the future, God willing,Contact me [here](https://t.me/DrdataYE) to report a problem.
 
 **Note:** Always ensure that you use this tool legally and in accordance with local laws. The development team assumes no responsibility for any unlawful use of this tool.
