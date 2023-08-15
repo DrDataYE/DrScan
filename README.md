@@ -20,7 +20,6 @@ You can easily install DrScan using the `deb` package file. Follow these simple 
    ```bash
    sudo dpkg -i drscan-package.deb
 
-
 4. After installation is complete, you can run DrScan using the following command:
 
    ```bash
