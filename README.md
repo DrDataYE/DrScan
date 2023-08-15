@@ -6,7 +6,7 @@ DrScan is a user-friendly tool that allows you to scan networks and connected de
 
 Here's a screenshot of DrScan in action:
 
-![DrScan Screenshot](https://ibb.co/Hzvvrrv)
+![DrScan Screenshot](https://i.ibb.co/Hzvvrrv/2023-07-02-132138.png)
 
 ## Features
 
