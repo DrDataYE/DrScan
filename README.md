@@ -2,6 +2,12 @@
 
 DrScan is a user-friendly tool that allows you to scan networks and connected devices. It can be used to discover devices connected to a network, check their status, and identify potential vulnerabilities. DrScan enables you to analyze and scan devices and services on the network easily and quickly.
 
+## Screenshots
+
+Here's a screenshot of DrScan in action:
+
+![DrScan Screenshot](https://ibb.co/Hzvvrrv)
+
 ## Features
 
 - Scan local networks to discover connected devices.
