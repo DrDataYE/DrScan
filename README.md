@@ -19,7 +19,7 @@ Here's a screenshot of DrScan in action:
 
 You can easily install DrScan using the `deb` package file. Follow these simple steps:
 
-1. Download the `deb` package file from [here](https://github.com/DrDataYE/DrScan/blob/main/python3-drscan_1.0.1-1_all.deb).
+1. Download the `deb` package file from [here](https://github.com/DrDataYE/DrScan/blob/main/drscan_1.0.2_amd64.deb).
 2. Open the terminal and navigate to the folder where the file was downloaded.
 3. Use the following command to install the package:
 
