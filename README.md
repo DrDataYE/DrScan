@@ -24,9 +24,13 @@ You can easily install DrScan using the `deb` package file. Follow these simple 
 3. Use the following command to install the package:
 
    ```bash
-   sudo dpkg -i python3-drscan_1.0.1-1_all.deb
+   sudo dpkg -i drscan_1.0.2_amd64.deb
    ```
-4. After installation is complete, you can run DrScan using the following command:
+   or
+   ```bash
+   sudo apt install drscan_1.0.2_amd64.deb
+   ```
+5. After installation is complete, you can run DrScan using the following command:
 
    ```bash
    drscan --help
