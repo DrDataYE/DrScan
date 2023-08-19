@@ -19,16 +19,16 @@ Here's a screenshot of DrScan in action:
 
 You can easily install DrScan using the `deb` package file. Follow these simple steps:
 
-1. Download the `deb` package file from [here](https://github.com/DrDataYE/DrScan/blob/main/drscan_1.0.2_amd64.deb).
+1. Download the `deb` package file from [here](https://github.com/DrDataYE/DrScan/blob/main/drscan_1.0.3_all_linux.deb).
 2. Open the terminal and navigate to the folder where the file was downloaded.
 3. Use the following command to install the package:
 
    ```bash
-   sudo dpkg -i drscan_1.0.2_amd64.deb
+   sudo dpkg -i drscan_1.0.3_all_linux.deb
    ```
    or
    ```bash
-   sudo apt install drscan_1.0.2_amd64.deb
+   sudo apt install drscan_1.0.3_all_linux.deb
    ```
 5. After installation is complete, you can run DrScan using the following command:
 
